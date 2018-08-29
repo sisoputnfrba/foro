@@ -6,11 +6,11 @@ En este repositorio vamos a manejar las consultas del trabajo práctico de Siste
 
 Por cada consulta que tengas, [**buscá**](https://github.com/sisoputnfrba/foro/issues?utf8=%E2%9C%93&q=is%3Aissue) si alguien hizo una pregunta similar previamente. Si la pregunta sigue abierta y vos tenés _la misma duda_, podés **suscribirte** a la duda con el botón de `Suscribe` bajo `Notifications`. Si la pregunta estuviera cerrada y no resuelve completamente tu duda, _no escribas en esa misma pregunta_: anotá el número de issue para referirlo en tu nueva pregunta.
 
-Si hasta ahora seguís sin resolver tu duda, [**creá un nuevo issue**](https://github.com/sisoputnfrba/foro/issues/new) usando el botón verde de `New`. Escribí un título descriptivo para tu pregunta, y explayate en el mensaje contando todos los detalles necesarios. Podés clickear el botón de `Markdown supported` para abrir la guía de Markdown y formatear mejor tu texto, y podés usar la pestaña de `Preview` para ver cómo va a quedar formateado tu mensaje. Si habías encontrado **preguntas que considerás relacionadas** con tu duda, referencialas escribiendo `#` y el número de la pregunta anterior (por ejemplo, `#51`) en el texto de tu pregunta. Podés invitar a otros compañeros tuyos a que aporten a la pregunta usando las @menciones, pero **no abuses** de esto: mencioná a alguien si sabés que _quiere_ enterarse de que estás publicando esta duda, no si vos querés llamar su atención a toda costa.
+Si hasta ahora seguís sin resolver tu duda, [**creá un nuevo issue**](https://github.com/sisoputnfrba/foro/issues/new) usando el botón verde de `New`. Escribí un título descriptivo para tu pregunta, y explayate en el mensaje contando todos los detalles necesarios. Podés clickear el botón de `Markdown supported` para abrir la guía de Markdown y formatear mejor tu texto, y podés usar la pestaña de `Preview` para ver cómo va a quedar formateado tu mensaje. Si habías encontrado **preguntas que considerás relacionadas** con tu duda, referencialas escribiendo `#` y el número de la pregunta anterior (por ejemplo, `#51`) en el texto de tu pregunta. Podés invitar a otros compañer@s tuyos a que aporten a la pregunta usando las @menciones, pero **no abuses** de esto: mencioná a alguien si sabés que _quiere_ enterarse de que estás publicando esta duda, no si vos querés llamar su atención a toda costa.
 
 Cuando consideres que tu duda finalmente fue resuelta, podés cerrar el issue con el botón de `Close issue`. Toda la pregunta va a seguir disponible; simplemente vamos a considerar que pudiste resolver tu problema.
 
-Sentite más que invitad@ a participar de las consultas de los demás.
+Sentite más que invitad@ a participar de las consultas de l@s demás.
 
 ## Links útiles
 
