@@ -1,3 +1,7 @@
+## TL;DR: Por favor buscá antes de preguntar y no reportes problemas de programación sin haber visto este video: [Cómo reportar errores desde Eclipse](https://youtu.be/18cN8Jk4WjQ)
+
+--------------------------------------------
+
 👋 ¡Hola!
 
 Ojalá el foro te sea de ayuda. Para agilizar las cosas para tod@s, te pedimos un par de
