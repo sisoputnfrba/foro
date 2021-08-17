@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Tengo una consulta administrativa
-    url: mailto:inscripciones@utnso.com.ar
-    about: Se pueden realizar consultas administrativas enviando un mail a `inscripciones@utnso.com.ar`
+  - name: :woman_technologist: Buscas Grupo / Integrantes para el 2c2021? Postea ACA! :man_technologist:
+    url: https://github.com/sisoputnfrba/foro/issues/2293
+    about: Post de búsqueda de grupos o integrantes. 
