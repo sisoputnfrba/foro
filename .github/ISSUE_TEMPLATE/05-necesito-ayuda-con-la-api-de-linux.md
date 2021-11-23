@@ -25,12 +25,13 @@ Contanos si investigaste sobre el tema en Google o en foros, y si encontraste al
 <!--
 No subas capturas de pantalla, copiá y pegá el código relevante a tu problema. Podés darle formato código con (Ctrl + 'e').
 -->
+
 ### 🐛 Cómo reproducir el error
 <!--
-De ser necesario, explica los pasos a seguir para reproducir el error.
+Contanos qué pasos seguiste para llegar hasta la duda o problema. Si se trata de comandos por consola, no subas capturas de pantalla, copiá el texto y pegalo acá. Podés darle formato código con (Ctrl + 'e').
 -->
 
 ### 💻 Logs
 <!--
-Si lo corriste con Valgrind, por consola o debugger y obtuviste un error, no subas capturas de pantalla, copiá y pegá el texto. Podés darle formato ódigo con (Ctrl + 'e'). Si el output es muy extenso, sentite libre de adjuntar un archivo de texto en su lugar.
+Si lo corriste con Valgrind, por consola o debugger y obtuviste un error, no subas capturas de pantalla, copiá el texto y pegalo acá. Podés darle formato ódigo con (Ctrl + 'e'). Si el output es muy extenso, sentite libre de adjuntar un archivo de texto en su lugar.
 -->

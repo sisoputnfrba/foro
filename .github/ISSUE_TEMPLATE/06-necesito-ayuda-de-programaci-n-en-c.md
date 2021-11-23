@@ -20,9 +20,10 @@ Contanos si investigaste sobre el tema en Google o en foros, y si encontraste al
 <!--
 No subas capturas de pantalla, copiá el código relevante a tu problema y pegalo acá. Podés darle formato código con (Ctrl + 'e').
 -->
+
 ### 🐛 Cómo reproducir el error
 <!--
-De ser necesario, explica los pasos a seguir para reproducir el error.
+Contanos qué pasos seguiste para llegar hasta la duda o problema. Si se trata de comandos por consola, no subas capturas de pantalla, copiá el texto y pegalo acá. Podés darle formato código con (Ctrl + 'e').
 -->
 
 ### 💻 Logs

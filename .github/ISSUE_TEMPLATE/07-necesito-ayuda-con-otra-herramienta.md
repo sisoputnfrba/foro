@@ -18,7 +18,7 @@ Contanos si investigaste sobre el tema en Google o en foros, y si encontraste al
 
 ### 📝 Pasos para reproducir el error
 <!--
-Contanos qué pasos seguiste en la interfaz de usuario para llegar hasta la duda o problema. Si se trata de comandos por consola, podés darle formato código con (Ctrl + 'e').
+Contanos qué pasos seguiste en la interfaz de usuario para llegar hasta la duda o problema. Si se trata de comandos por consola, no subas capturas de pantalla, copiá el texto y pegalo acá. Podés darle formato código con (Ctrl + 'e').
 -->
 
 ### 💻 Logs

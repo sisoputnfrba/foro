@@ -33,5 +33,5 @@ Podés enumerar más configuraciones que creas que están relacionadas como la v
 
 ### 💻 Logs
 <!--
-Si obtuviste por consola o por pantalla algo que pueda ayudar a darnos más contexto, no subas capturas de pantalla, copiá y pegá el texto. Podés darle formato código con (Ctrl + 'e'). Si el output es muy extenso, sentite libre de adjuntar un archivo de texto en su lugar.
+Si obtuviste por consola o por pantalla algo que pueda ayudar a darnos más contexto, no subas capturas de pantalla, copiá el texto y pegalo acá. Podés darle formato código con (Ctrl + 'e'). Si el output es muy extenso, sentite libre de adjuntar un archivo de texto en su lugar.
 -->
