@@ -22,7 +22,7 @@ Describinos cuál es el comportamiento que esperabas que tuviera el proceso. Pod
 -->
 
 <!--
-En caso de querernos mostrar un output de la consola, copiá y pegá el texto. Podés darle formato código con (Ctrl + 'e'). Si el output es muy extenso, sentite libre de adjuntar un archivo de texto en su lugar.
+En caso de querernos mostrar un output de la consola, no subas capturas de pantalla, copiá el texto y pegalo acá. Podés darle formato código con (Ctrl + 'e'). Si el output es muy extenso, sentite libre de adjuntar un archivo de texto en su lugar.
 -->
 
 ### 👎 Comportamiento obtenido
@@ -31,5 +31,5 @@ Describinos cuál es el comportamiento que esperabas que tuviera el proceso. Pod
 -->
 
 <!--
-En caso de querernos mostrar un output de la consola, copiá y pegá el texto. Podés darle formato código con (Ctrl + 'e').Si el output es muy extenso, sentite libre de adjuntar un archivo de texto en su lugar.
+En caso de querernos mostrar un output de la consola, no subas capturas de pantalla, copiá el texto y pegalo acá. Podés darle formato código con (Ctrl + 'e'). Si el output es muy extenso, sentite libre de adjuntar un archivo de texto en su lugar.
 -->
