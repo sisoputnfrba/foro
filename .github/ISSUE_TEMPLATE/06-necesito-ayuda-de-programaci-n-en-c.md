@@ -1,6 +1,6 @@
 ---
 name: Necesito ayuda de programación en C
-about: Usá este template si necesitás ayuda con las commons, gcc o C en general.
+about: Usá este template si necesitás ayuda con las commons, gcc, Valgrind o programación en C en general.
 title: ''
 labels: programacion-c
 assignees: ''
