@@ -1,19 +1,36 @@
-## TL;DR: Por favor buscá antes de preguntar y no reportes problemas de programación sin haber visto este video: [Cómo reportar errores desde Eclipse](https://youtu.be/18cN8Jk4WjQ)
+# 👩‍💻 ¿Buscás Grupo / Integrantes para el Xc20XX? ¡Posteá ACA! 👨‍💻
 
---------------------------------------------
+¡Buenas!
 
-👋 ¡Hola!
+Con el objetivo de unificar todos los post de búsqueda de grupos / integrantes, 
+vamos a centralizarlo en este post.
 
-Ojalá el foro te sea de ayuda. Para agilizar las cosas para tod@s, te pedimos un par de
-cosas antes de que hagas una nueva pregunta:
+Les recomendamos encarecidamente que traten de **NO publicar números de 
+celular** y limitarse solo a los mails. Tengan en cuenta que el foro es público,
+por lo que pueden llegar a quedar en alguna lista de spam o que les hable gente 
+que no quieran.
 
-- [ ] 🔍 ¡Buscá! Acá arriba hay un "Search" que te permite buscar consultas que hayan
-hecho antes tus compañer@s. Quizá ya encontrás la respuesta servida.
-- [ ] 📝 ¡Se detallad@! Si no encontraste tu respuesta, se tan clar@ y detallad@ en tu
-pregunta como puedas. Tratá de contar qué hacés, qué observás, y qué entendés a partir
-de eso - ¡pero sin mezclarlas!. **No subas capturas de pantalla**. Copiá el código que sea relevante, copiá los mensajes de error que encuentres, y las cosas que te parece que nos pueden ayudar a entender qué te está pasando. Nos ayuda a nosotr@s y les ayuda a ustedes para usar el buscador en el futuro.
-- [ ] 📹 ¡Mirá cómo reportar desde Eclipse! Si tu problema es con código en Eclipse,
-mirá el video [Cómo reportar errores desde Eclipse](https://youtu.be/18cN8Jk4WjQ) para
-tener todos los detalles que necesitamos.
+Saludos.-
 
-🙇 Gracias por leernos, y ¡éxitos!
+--------------------------------------------------------------------------------
+
+# Cambios de grupo
+
+¡Buenas!
+
+Habiendo cerrado la inscripción de grupos, damos paso al inicio de los cambios 
+de grupo. 
+
+En este thread van a poder buscar integrantes para completar su grupo, o grupo 
+en caso de haberse quedado solos. Tengan en cuenta que los cambios no son para 
+andar probando suerte, si no para unificar a aquellos grupos que sufrieron 
+bajas.
+
+Por favor, traten de **NO publicar números de celular**, ya que el foro es 
+público y cualquier persona incluso fuera de la UTN FRBA puede llegar a ver su
+número.
+
+Como siempre, cualquier inconveniente con los cambios de grupos envíen un mail
+a inscripciones@utnso.com.ar
+
+Saludos.-
