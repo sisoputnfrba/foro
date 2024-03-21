@@ -18,7 +18,7 @@ Si hasta ahora seguís sin resolver tu duda, [**creá un nuevo issue**](https://
 
 Cuando consideres que tu duda finalmente fue resuelta, podés cerrar el issue con el botón de `Close issue`. Toda la pregunta va a seguir disponible; simplemente vamos a considerar que pudiste resolver tu problema.
 
-Sentite más que invitad@ a participar de las consultas de los demás.
+Sentite más que invitado a participar de las consultas de los demás.
 
 ## Links útiles
 
