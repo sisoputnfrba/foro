@@ -1,20 +1,23 @@
-# 👩‍💻 ¿Buscás Grupo / Integrantes para el Xc20XX? ¡Posteá ACA! 👨‍💻
+# 👩‍💻 ¿Buscás Grupo / Integrantes para el Xc20XX? ¡Posteá ACÁ! 👨‍💻
 
 ¡Buenas!
 
 Con el objetivo de unificar todos los post de búsqueda de grupos / integrantes, 
-vamos a centralizarlo en este post.
+vamos a centralizarlos en este post.
 
 Les recomendamos encarecidamente que traten de **NO publicar números de 
 celular** y limitarse solo a los mails. Tengan en cuenta que el foro es público,
 por lo que pueden llegar a quedar en alguna lista de spam o que les hable gente 
 que no quieran.
 
+Ante cualquier inconveniente con las inscripciones, por favor envíen un mail
+a inscripciones@utnso.com.ar
+
 Saludos.-
 
 --------------------------------------------------------------------------------
 
-# Cambios de grupo
+# Cambios de grupo Xc20XX
 
 ¡Buenas!
 
