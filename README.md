@@ -29,18 +29,16 @@ Sentite más que invitado a participar de las consultas de los demás.
 
 ## ¿Por qué usar GitHub Issues y no el Campus Virtual?
 
-- Los conceptos son fácilmente adaptables: un tema en el CV se convierte en un issue, cada mensaje se convierte en un comentario.
 - La interfaz es más liviana y responsive: se ve bien tanto desde una computadora como desde un celular
 - Suscripción por e-mail: llegan mails cuando hay nuevos mensajes que te interesen
 - **Contestar via e-mail**: podés contestar los mails que llegan en vez de entrar a la página
 - Formatea el texto usando Markdown: buen soporte para tipear código, rápido para tipear
 - Referencias entre issues: una pregunta puede referir a otras fácilmente, y buscar cuáles refirieron a ella
-- GitHub <3
-- Es bastante popular
+- Es bastante popular tanto en el uso académico como empresarial
 - Buscador: hay buenos filtros de búsqueda bastante útiles
 - API y aplicaciones mobile: existen algunas aplicaciones para celulares, y la API está disponible para crear otras si hiciera falta
 
-Las pocas desventajas que le vemos (al menos por ahora) es que _hay que aprender algo más_ (no es tan grave, y es una herramienta bastante útil) y que _es nuevo_, por lo que, si bien hicimos pruebas, aún no tenemos 100% definida cuál es la mejor manera de usarlo.
+La única desventaja que le vemos es que _hay que aprender algo más_ (no es tan grave, y es una herramienta muy útil que seguramente utilizaran en otras materias o en el ámbito laboral)
 
 
 ## ¿Problemas? ¿Sugerencias?
