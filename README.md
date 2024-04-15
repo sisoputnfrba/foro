@@ -23,9 +23,8 @@ Sentite más que invitado a participar de las consultas de los demás.
 ## Links útiles
 
 - [Guía de uso de GitHub Issues](https://guides.github.com/features/issues/) ([traducción](https://github.com/mgarciaisaia/github-translations/blob/spanish/guides/features/issues.md))
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Markdown básico](https://help.github.com/articles/markdown-basics/)
-- [Markdown avanzado](https://help.github.com/articles/github-flavored-markdown/)
+- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Working with advanced formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting)
 
 ## ¿Por qué usar GitHub Issues y no el Campus Virtual?
 
