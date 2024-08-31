@@ -31,7 +31,8 @@ body:
     attributes:
       label: 📄 Código relevante
       description: |
-        No subas capturas de pantalla, copiá el código relevante a tu problema y pegalo acá. Podés darle formato código con (Ctrl + 'e').
+        No subas capturas de pantalla, copiá el código relevante a tu problema y pegalo acá.
+        Podés darle formato código seleccionando todas las líneas a la vez y pulsando Ctrl + 'e'.
     validations:
       required: false
   - type: textarea
@@ -39,7 +40,9 @@ body:
     attributes:
       label: 🐛 Cómo reproducir el error
       description: |
-        Contanos qué pasos seguiste para llegar hasta la duda o problema. Si se trata de comandos por consola, no subas capturas de pantalla, copiá el texto y pegalo acá. Podés darle formato código con (Ctrl + 'e').
+        Contanos qué pasos seguiste para llegar hasta la duda o problema.
+        Si se trata de comandos por consola, no subas capturas de pantalla, copiá el texto y pegalo acá.
+        Podés darle formato código seleccionando todas las líneas a la vez y pulsando Ctrl + 'e'.
     validations:
       required: false
   - type: textarea
@@ -47,8 +50,8 @@ body:
     attributes:
       label: 💻 Logs
       description: |
-        ¿Lo corriste con [Valgrind](faq.utnso.com.ar/valgrind), por consola o debugger?
-        Copiá el texto y pegalo acá. Podés darle formato código con (Ctrl + 'e').
+        ¿Lo corriste con [Valgrind](faq.utnso.com.ar/valgrind), por consola o debugger? Copiá el texto y pegalo acá.
+        Podés darle formato código seleccionando todas las líneas a la vez y pulsando Ctrl + 'e'.
         Si el output es muy extenso, sentite libre de adjuntar un archivo de texto en su lugar.
     validations:
       required: false
