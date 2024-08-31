@@ -21,8 +21,8 @@ body:
       label: 📚 Búsqueda en documentación/foros
       description: |
         Contanos si investigaste sobre el tema en Google o foros, y si encontraste algún post que sea de utilidad para darnos más contexto sobre el problema.
-        En caso de tener una duda con alguna función de Linux, podés buscar en las [manpages](https://man7.org/linux/man-pages/index.html).
-        Si es una función de las commons, podés citar la [documentación](https://faq.utnso.com.ar/commons-docs).
+        En caso de tener una duda con alguna función de Linux, recomendamos consultar primero las [manpages](https://man7.org/linux/man-pages/index.html).
+        Si es una función de las commons, la [documentación](https://faq.utnso.com.ar/commons-docs) también puede resultar muy útil.
     validations:
       required: false
   - type: textarea
