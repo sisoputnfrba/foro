@@ -26,7 +26,7 @@ body:
     validations:
       required: false
   - type: textarea
-    id: docs
+    id: ideas
     attributes:
       label: 💭 Soluciones posibles
       description: |
