@@ -49,7 +49,7 @@ body:
     attributes:
       label: 💻 Logs
       description: |
-        ¿Lo corriste con [Valgrind](faq.utnso.com.ar/valgrind), por consola o debugger? Copiá el texto y pegalo acá.
+        ¿Lo corriste por consola, usando el [debugger](https://faq.utnso.com.ar/debugger) o con [Valgrind](https://faq.utnso.com.ar/valgrind)? Copiá el texto y pegalo acá.
         Podés darle formato código seleccionando todas las líneas a la vez y pulsando Ctrl + 'e'.
         Si el output es muy extenso, sentite libre de adjuntar un archivo de texto en su lugar.
     validations:
