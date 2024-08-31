@@ -1,32 +1,63 @@
----
 name: Necesito ayuda de programación en Go
-about: Usá este template si necesitás ayuda con la biblioteca estándar de Golang.
-title: ''
-labels: programacion-go
-assignees: ''
-
----
-
-<!--
-Contanos cuál es el contexto de tu duda o problema, cuál es el comportamiento que esperabas y el que obtuviste. No olvides buscar primero en el buscador de issues por si la duda ya fue resuelta antes. Si no se resuelve pero creés que el issue está relacionado, podés citarlo con un #.
--->
-
-### 🔎 Búsqueda en foros
-<!--
-Contanos si investigaste sobre el tema en Google o en foros, y si encontraste algún post que sea de utilidad para darnos más contexto sobre el problema.
--->
-
-### 📝 Código relevante
-<!--
-No subas capturas de pantalla, copiá el código relevante a tu problema y pegalo acá. Podés darle formato código con (Ctrl + 'e').
--->
-
-### 🐛 Cómo reproducir el error
-<!--
-Contanos qué pasos seguiste para llegar hasta la duda o problema. Si se trata de comandos por consola, no subas capturas de pantalla, copiá el texto y pegalo acá. Podés darle formato código con (Ctrl + 'e').
--->
-
-### 💻 Logs
-<!--
-Si lo corriste por consola o debugger y obtuviste un error, no subas capturas de pantalla, copiá el texto y pegalo acá. Podés darle formato código con (Ctrl + 'e'). Si el output es muy extenso, sentite libre de adjuntar un archivo de texto en su lugar.
--->
+description: Usá este template si necesitás ayuda con la biblioteca estándar de Go.
+labels: ['programacion-go']
+projects: []
+assignees: []
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: 🖋️ Descripción
+      description: |
+        Contanos cuál es el contexto de tu duda o problema, cuál es el comportamiento que esperabas y el que obtuviste.
+        No olvides buscar primero en el buscador de issues por si la duda ya fue resuelta antes.
+        Si no se resuelve pero creés que el issue está relacionado, podés citarlo con un #.
+      placeholder:
+    validations:
+      required: true
+  - type: textarea
+    id: docs
+    attributes:
+      label: 📚 Búsqueda en documentación/foros
+      description: |
+        Contanos si investigaste sobre el tema en Google o foros, y si encontraste algún post que sea de utilidad para darnos más contexto sobre el problema.
+        En caso de tener una duda con alguna función, recomendamos consultar primero la [documentación oficial](https://pkg.go.dev/).
+    validations:
+      required: false
+  - type: textarea
+    id: code
+    attributes:
+      label: 📄 Código relevante
+      description: |
+        No subas capturas de pantalla, copiá el código relevante a tu problema y pegalo acá.
+        Podés darle formato código seleccionando todas las líneas a la vez y pulsando Ctrl + 'e'.
+    validations:
+      required: false
+  - type: textarea
+    id: steps
+    attributes:
+      label: 🐛 Cómo reproducir el error
+      description: |
+        Contanos qué pasos seguiste para llegar hasta la duda o problema.
+        Si se trata de comandos por consola, no subas capturas de pantalla, copiá el texto y pegalo acá.
+        Podés darle formato código seleccionando todas las líneas a la vez y pulsando Ctrl + 'e'.
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: 💻 Logs
+      description: |
+        ¿Lo corriste por consola o usando el debugger? Copiá el texto y pegalo acá.
+        Podés darle formato código seleccionando todas las líneas a la vez y pulsando Ctrl + 'e'.
+        Si el output es muy extenso, sentite libre de adjuntar un archivo de texto en su lugar.
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 📝 Normas del foro
+      description: Al subir el issue, asumimos que leíste los [lineamientos del foro](https://github.com/sisoputnfrba/foro/blob/master/README.md)
+      options:
+        - label: Leí los lineamientos del foro
+          required: true
