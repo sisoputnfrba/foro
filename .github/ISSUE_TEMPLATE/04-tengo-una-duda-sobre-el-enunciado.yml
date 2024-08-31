@@ -15,7 +15,7 @@ body:
       default: 0
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: description
     attributes:
       label: Descripción
@@ -26,7 +26,7 @@ body:
       placeholder:
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: quotes
     attributes:
       label: 📔 Citas del enunciado/videos
@@ -36,7 +36,7 @@ body:
         Podés darle formato 'cita' con un símbolo '>' adelante.
     validations:
       required: false
-  - type: input
+  - type: textarea
     id: alternatives
     attributes:
       label: 💭 Soluciones posibles
