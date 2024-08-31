@@ -1,5 +1,5 @@
 name: Necesito ayuda con otra herramienta
-description: Usá este template si necesitás ayuda con el IDE, las VMs, Git u otra herramienta.
+description: Usá este template si necesitás ayuda con el IDE, Git u otra herramienta.
 labels: ['herramientas-ide-git-vms-etc :wrench:']
 projects: []
 assignees: []
