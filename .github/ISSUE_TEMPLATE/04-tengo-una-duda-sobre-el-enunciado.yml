@@ -47,7 +47,7 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: Normas del foro
+      label: 📝 Normas del foro
       description: Al subir el issue, asumimos que leíste los [lineamientos del foro](https://github.com/sisoputnfrba/foro/blob/master/README.md)
       options:
         - label: Leí los lineamientos del foro
