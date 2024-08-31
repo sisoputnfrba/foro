@@ -1,8 +1,8 @@
 ---
-name: Tengo una duda sobre el enunciado
-about: Usá este template si tenés una duda sobre una cita del enunciado del TP.
+name: Tengo una duda sobre el enunciado (lenguaje C)
+about: Usá este template si tenés una duda sobre una cita del enunciado del TP en lenguaje C.
 title: ''
-labels: 'enunciado :page_facing_up:'
+labels: 'enunciado-c :page_facing_up:'
 assignees: ''
 
 ---
