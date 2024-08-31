@@ -1,0 +1,53 @@
+name: Tengo una duda sobre las pruebas
+description: Usá este template si tenés una duda sobre alguna de las pruebas del TP.
+labels: ['pruebas :white_check_mark:']
+projects: []
+assignees: []
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: 🖋️ Descripción
+      description: |
+        Contanos cuál es el contexto de tu duda o problema.
+        No olvides buscar primero en el buscador de issues por si la duda ya fue resuelta antes.
+        Si no se resuelve tu duda pero creés que el issue está relacionado, podés citarlo con un #.
+      placeholder:
+    validations:
+      required: true
+  - type: textarea
+    id: docs
+    attributes:
+      label: 📔 Citas del documento de pruebas
+      description: |
+        Copianos los fragmentos del documento de pruebas sobre los cuales tengas dudas y en qué sección o página se encuentra cada uno.
+    validations:
+      required: false
+  - type: textarea
+    id: steps
+    attributes:
+      label: 👍 Comportamiento esperado
+      description: |
+        Describinos cuál es el comportamiento que esperaban que tuviera el proceso.
+        Podés intentar describirnos lo que está ocurriendo con alguna herramienta vista en la teoría para complementar la explicación.
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: 👎 Comportamiento obtenido
+      description: |
+        Describinos cuál es el comportamiento que obtuvieron del proceso.
+        En caso de querernos mostrar un output de la consola, no subas capturas de pantalla, copiá el texto y pegalo acá.
+        Podés darle formato código seleccionando todas las líneas a la vez y pulsando Ctrl + 'e'.
+        Si el output es muy extenso, sentite libre de adjuntar un archivo de texto en su lugar.
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 📝 Normas del foro
+      description: Al subir el issue, asumimos que leíste los [lineamientos del foro](https://github.com/sisoputnfrba/foro/blob/master/README.md)
+      options:
+        - label: Leí los lineamientos del foro
+          required: true
