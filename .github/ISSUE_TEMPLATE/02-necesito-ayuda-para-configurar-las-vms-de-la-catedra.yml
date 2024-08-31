@@ -29,7 +29,7 @@ body:
       label: 📦 Especificaciones de la VM
       description: |
         Podés enumerar más configuraciones que creas que están relacionadas como la versión de Guest Additions, el controlador gráfico, etc.
-      placeholder: |
+      value: |
         - Versión de VirtualBox: 
         - Memoria RAM asignada:
     validations:
@@ -40,7 +40,7 @@ body:
       label: 🖥️ Especificaciones del host
       description: |
         Podés enumerar más configuraciones que creas que están relacionadas como la versión de BIOS, la motherboard, etc
-      placeholder: |
+      value: |
         - Sistema Operativo y versión:
         - Memoria RAM:
         - Procesador:
