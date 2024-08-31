@@ -19,9 +19,11 @@ body:
   - type: textarea
     id: docs
     attributes:
-      label: 🔎 Búsqueda en documentación/foros
+      label: 📚 Búsqueda en documentación/foros
       description: |
-        Contanos si investigaste sobre el tema en las [manpages](https://man7.org/linux/man-pages/index.html) o en foros, y si encontraste algún post que sea de utilidad para darnos más contexto sobre el problema.
+        Contanos si investigaste sobre el tema en Google o foros, y si encontraste algún post que sea de utilidad para darnos más contexto sobre el problema.
+        En caso de tener una duda con alguna función de Linux, podés buscar en las [manpages](https://man7.org/linux/man-pages/index.html).
+        Si es una función de las commons, podés citar la [documentación](https://faq.utnso.com.ar/commons-docs).
     validations:
       required: false
   - type: textarea
