@@ -1,6 +1,5 @@
 name: Necesito ayuda de programación en C
 description: Usá este template si necesitás ayuda con las commons, gcc, sockets, threads o C en general.
-title: ''
 labels: ['programacion-c', 'api-linux-threads-semaforos-etc']
 projects: []
 assignees: []
