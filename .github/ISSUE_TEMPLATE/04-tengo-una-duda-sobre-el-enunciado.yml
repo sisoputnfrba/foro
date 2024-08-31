@@ -1,0 +1,54 @@
+name: Tengo una duda sobre el enunciado
+description: Usá este template si tenés una duda sobre una cita del enunciado del TP.
+title: '[Enunciado]: '
+labels: ['enunciado-c :page_facing_up:', 'enunciado-go :page_facing_up:']
+projects: []
+assignees: ''
+body:
+  - type: dropdown
+    id: language
+    attributes:
+      label: Lenguaje
+      options:
+        - C
+        - Go
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: Descripción
+      description: |
+        Contanos cuál es el contexto de tu duda o problema.
+        No olvides buscar primero en el buscador de issues por si la duda ya fue resuelta antes.
+        Si no se resuelve tu duda pero creés que el issue está relacionado, podés citarlo con un #.
+      placeholder:
+    validations:
+      required: true
+  - type: input
+    id: quotes
+    attributes:
+      label: 📔 Citas del enunciado/videos
+      description: |
+        Copianos los fragmentos del enunciado sobre los cuales tengas dudas y en qué sección o página se encuentra cada uno. 
+        Si es un video, alcanza con decirnos cuál es y en qué minuto se encuentra.
+        Podés darle formato 'cita' con un símbolo '>' adelante.
+    validations:
+      required: false
+  - type: input
+    id: alternatives
+    attributes:
+      label: 💭 Soluciones posibles
+      description: |
+        Si crees que puede servir para darnos más contexto sobre tu duda, contanos tus alternativas sobre cómo podrías encarar este ejercicio.
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Normas del foro
+      description: Al subir el issue, asumimos que leíste los [lineamientos del foro](https://github.com/sisoputnfrba/foro/blob/master/README.md)
+      options:
+        - label: Leí los lineamientos del foro
+          required: true
