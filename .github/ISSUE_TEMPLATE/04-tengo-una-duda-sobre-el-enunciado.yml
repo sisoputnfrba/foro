@@ -3,7 +3,7 @@ description: Usá este template si tenés una duda sobre una cita del enunciado 
 title: '[Enunciado]: '
 labels: ['enunciado-c :page_facing_up:', 'enunciado-go :page_facing_up:']
 projects: []
-assignees: ''
+assignees: []
 body:
   - type: dropdown
     id: language
