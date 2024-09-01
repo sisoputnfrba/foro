@@ -1,0 +1,44 @@
+name: Necesito ayuda para resolver el TP0
+description: Usá este template si necesitás ayuda para encarar y resolver el TP0.
+labels: ['tp0-workshop']
+projects: []
+assignees: []
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: 🖋️ Descripción
+      description: |
+        Contanos cuál es el contexto de tu duda o problema, cuál es el comportamiento que esperabas y el que obtuviste.
+        No olvides buscar primero en el buscador de issues por si la duda ya fue resuelta antes.
+        Si no se resuelve pero creés que el issue está relacionado, podés citarlo con un #.
+      placeholder:
+    validations:
+      required: true
+  - type: textarea
+    id: docs
+    attributes:
+      label: 📔 Citas del enunciado/videos
+      description: |
+        Copianos los fragmentos del enunciado sobre los cuales tengas dudas y en qué sección o página se encuentra cada uno.
+        Si es un video, alcanza con decirnos cuál es y en qué minuto se encuentra.
+        Podés darle formato 'cita' con un símbolo '>' adelante.
+    validations:
+      required: false
+  - type: textarea
+    id: ideas
+    attributes:
+      label: 💭 Soluciones posibles
+      description: |
+        Si crees que puede servir para darnos más contexto sobre tu duda, contanos tus alternativas sobre cómo podrías encarar este ejercicio.
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 📝 Normas del foro
+      description: Al subir el issue, asumimos que leíste los [lineamientos del foro](https://github.com/sisoputnfrba/foro/blob/master/README.md)
+      options:
+        - label: Leí los lineamientos del foro
+          required: true
+  
