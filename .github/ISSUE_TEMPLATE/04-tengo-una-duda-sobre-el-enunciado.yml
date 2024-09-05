@@ -1,6 +1,5 @@
 name: Tengo una duda sobre el enunciado
 description: Usá este template si tenés una duda sobre una cita del enunciado del TP.
-title: '[Enunciado]: '
 labels: ['enunciado-c :page_facing_up:', 'enunciado-go :page_facing_up:']
 projects: []
 assignees: []
