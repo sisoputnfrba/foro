@@ -4,6 +4,16 @@ labels: ['pruebas :white_check_mark:']
 projects: []
 assignees: []
 body:
+  - type: dropdown
+    id: language
+    attributes:
+      label: 🛠️ Lenguaje
+      options:
+        - C
+        - Go
+      default: 0
+    validations:
+      required: true
   - type: textarea
     id: description
     attributes:
