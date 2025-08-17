@@ -1,19 +1,9 @@
 name: Tengo una duda sobre el enunciado
 description: Usá este template si tenés una duda sobre una cita del enunciado del TP.
-labels: ['enunciado-c :page_facing_up:', 'enunciado-go :page_facing_up:']
+labels: ['enunciado-c :page_facing_up:']
 projects: []
 assignees: []
 body:
-  - type: dropdown
-    id: language
-    attributes:
-      label: 🛠️ Lenguaje
-      options:
-        - C
-        - Go
-      default: 0
-    validations:
-      required: true
   - type: textarea
     id: description
     attributes:
